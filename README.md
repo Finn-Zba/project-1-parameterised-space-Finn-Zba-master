@@ -2,7 +2,7 @@
 ### 2023 MDDN342 Project 1: Parameterised Space
 EXAMPLE README 
 
-This design currently shows a matrix esk number cluser as I plau around with noise.
+This design currently shows a matrix esk number cluser as I play around with noise.
 
 In terms of concrete performance, I draw different geometric figures, let them spread out, and overlay their number at the same time, through the time difference to make the whole dynamic background become enthusiastic.
 
